@@ -2,7 +2,7 @@
 
 <!-- Elegant Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,fad0c4,ffd1ff,a1c4fd,c2e9fb&text=Komal%20Chaudhary&fontAlign=50&fontSize=40&textBg=true&desc=Turning%20Data%20into%20Meaningful%20Insights&descAlign=50&descSize=20&height=150&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,fad0c4,ffd1ff,a1c4fd,c2e9fb&text=Komal%20Chaudhary&fontAlign=50&fontSize=40&textBg=true&descAlign=50&descSize=20&height=150&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
